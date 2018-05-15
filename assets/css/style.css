@@ -239,6 +239,12 @@ textarea {
 		width:85%;
 		margin-right:5%;
 	}
+	.clearfix {
+		width:85%;
+	}
+	#a {
+		width:85%;
+	}
 }
 @media only screen and (max-width: 640px) {
     #portpic {
